@@ -3,7 +3,7 @@ Crawl-delay: 5
 Allow: /misc/*.png
 Allow: /modules/*.css$
 # Directories
-Disallow: /profiles
+Disallow: /profiles/
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
