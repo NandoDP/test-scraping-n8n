@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 5
+Allow: /misc/*.png
+Allow: /modules/*.css$
+# Directories
+Disallow: /profiles/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+
+Sitemap: https://nandodp.github.io/test-scraping-n8n/sitemap.xml
